@@ -1,4 +1,4 @@
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg""/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 LinkedIn: https://www.linkedin.com/in/frederik-lind-24490017b/
 #
 ### 🧰 Languages and Tools
