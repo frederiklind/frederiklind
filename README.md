@@ -15,4 +15,6 @@
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLIVLA&layout=compact_bg_color=000000&title_color=eee)](https://github.com/FLIVLA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLIVLA&layout=compact&text_color=fff&bg_color=258&title_color=fff)](https://github.com/FLIVLA/github-readme-stats)
+
+text_color=fff&bg_color=258&title_color=fff
