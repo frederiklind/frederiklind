@@ -19,4 +19,4 @@
 
 <br/>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FLIVLA&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/FLIVLA/github-readme-stats#gh-dark-mode-only)
+[![FLIVLA's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FLIVLA&show_icons=true&text_color=fff&bg_color=181E22&title_color=fff&hide_false=true&hide_border=true)](https://github.com/FLIVLA/github-readme-stats#gh-dark-mode-only)
