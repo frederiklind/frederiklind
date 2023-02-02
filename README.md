@@ -19,4 +19,4 @@
 
 <br/>
 
-[![FLIVLA's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FLIVLA&show_icons=true&text_color=5DC79D&bg_color=0D151A&title_color=fff&hide_false=true&hide_border=true&card_width=550)](https://github.com/FLIVLA/github-readme-stats#gh-dark-mode-only)
+[![FLIVLA's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FLIVLA&show_icons=true&text_color=5DC79D&bg_color=0D151A&title_color=fff&hide_false=true&hide_border=true&card_width=550&cs=ff2244)](https://github.com/FLIVLA/github-readme-stats#gh-dark-mode-only)
