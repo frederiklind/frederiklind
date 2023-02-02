@@ -1,6 +1,6 @@
 <img align="left" alt="Java" width="20px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>https://www.linkedin.com/in/frederik-lind-24490017b/
 
-
+<br />
 
 ### 🧰 Languages and Tools
 
