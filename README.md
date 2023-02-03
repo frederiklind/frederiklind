@@ -15,8 +15,9 @@
 
 #
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLIVLA&layout=compact&text_color=AEDEFA&bg_color=0D151A&title_color=5093FF&hide_false=true&hide_border=true&text_bold=true)](https://github.com/FLIVLA/github-readme-stats)"/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FLIVLA&show_icons=true&text_color=AEDEFA&bg_color=0D151A&title_color=5093FF&hide_false=true&hide_border=true&card_width=500&ring_color=FFCC50&icon_color=E188FF)](https://github.com/FLIVLA/github-readme-stats#gh-dark-mode-only)"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLIVLA&layout=compact&text_color=AEDEFA&bg_color=0D151A&title_color=5093FF&hide_false=true&hide_border=true&card_width=500&text_bold=true)](https://github.com/FLIVLA/github-readme-stats)
 
 <br/>
+
+[![FLIVLA's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FLIVLA&show_icons=true&text_color=AEDEFA&bg_color=0D151A&title_color=5093FF&hide_false=true&hide_border=true&card_width=500&ring_color=FFCC50&icon_color=E188FF)](https://github.com/FLIVLA/github-readme-stats#gh-dark-mode-only)
+
