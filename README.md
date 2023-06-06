@@ -17,5 +17,4 @@
 <br/>
 
 #
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLIVLA&layout=compact&text_color=AEDEFA&bg_color=0D151A&title_color=5093FF&hide_false=true&hide_border=true&card_width=500&text_bold=true)](https://github.com/FLIVLA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLIVLA&layout=compact&text_color=AEDEFA&bg_color=0D151A&title_color=5093FF&hide_false=true&hide_border=true&card_width=500&text_bold=true&langs_count=10)](https://github.com/FLIVLA/github-readme-stats)
