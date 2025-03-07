@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=frederiklind&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=frederiklind&theme=github-dark-blue&hide_border=false)](https://git.io/streak-stats)
 
 
 <br/>
